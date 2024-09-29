@@ -1,1 +1,11 @@
-streamlit
+altair==4.1.0
+faiss-cpu==1.7.4
+python-dotenv==1.0.0
+langchain==0.0.216
+langchain_google_genai  # This is used for Google Generative AI embeddings
+streamlit==1.18.1
+PyPDF2==3.0.1
+langchain-community
+langchain-anthropic
+langchain_openai
+langchain.tools
